@@ -8,11 +8,11 @@
     "maximum": "13",
     "verified": "11"
   },  
-  "manifest": "https://raw.githubusercontent.com/Anderware/Combat-Tracker-Extensions/main/module.json",
-  "download": "https://github.com/Anderware/Combat-Tracker-Extensions/releases/download/v1.4/combat-tracker-extensions.zip",
-  "changelog": "https://github.com/Anderware/Combat-Tracker-Extensions/blob/main/changelog.md",
+  "manifest": "https://raw.githubusercontent.com/Beefriedrice/Combat-Tracker-Extensions/main/module.json",
+  "download": "https://github.com/Beefriedrice/Combat-Tracker-Extensions/releases/download/v1.4/combat-tracker-extensions.zip",
+  "changelog": "https://github.com/Beefriedrice/Combat-Tracker-Extensions/blob/main/changelog.md",
   "readme": "https://github.com/Anderware/Combat-Tracker-Extensions/blob/main/readme.md",
-  "url": "https://github.com/Anderware/Combat-Tracker-Extensions",
+  "url": "https://github.com/Beefriedrice/Combat-Tracker-Extensions",
   "bugs": "https://github.com/Anderware/Combat-Tracker-Extensions/issues",
   "license": "https://opensource.org/licenses/AGPL-3.0",
   "authors": [
