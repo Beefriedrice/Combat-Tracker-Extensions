@@ -5,7 +5,7 @@
   "version": "1.4",
   "compatibility": {
     "minimum": "10",
-    "maximum": "11",
+    "maximum": "13",
     "verified": "11"
   },  
   "manifest": "https://raw.githubusercontent.com/Anderware/Combat-Tracker-Extensions/main/module.json",
