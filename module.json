@@ -5,8 +5,7 @@
   "version": "1.4",
   "compatibility": {
     "minimum": "10",
-    "maximum": "13",
-    "verified": "11"
+    "verified": "13"
   },  
   "manifest": "https://raw.githubusercontent.com/Beefriedrice/Combat-Tracker-Extensions/main/module.json",
   "download": "https://github.com/Beefriedrice/Combat-Tracker-Extensions/releases/download/v1.4/combat-tracker-extensions.zip",
